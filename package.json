@@ -1,5 +1,5 @@
 {
-  "name": "Zing Test Node Module",
+  "name": "zingtestnodemodule",
   "version": "0.0.0",
   "private": true,
   "main": "./module.js",
