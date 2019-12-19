@@ -7,7 +7,7 @@ Sentry.captureMessage('hello from B4A cloud code');
 
 module.exports.test = () => { 
   return { 
-    time: moment(),
-    uuid: uuidv1(),
+    time: 'moment()',
+    uuid: 'uuidv1()',
   }
 };
